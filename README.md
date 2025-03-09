@@ -11,35 +11,35 @@
 
 
 # Technologies Used
-- 🔹 **React.js** – For building the front-end UI
-- 🔹 **Firebase Realtime Database** – For storing and syncing user data
-- 🔹 **React Hooks (useState, useEffect)** – For state management
-- 🔹 **Bootstrap & React-Bootstrap** – For styling and responsive design
-- 🔹 **CSS** – For additional styling
+-  **React.js** – For building the front-end UI
+-  **Firebase Realtime Database** – For storing and syncing user data
+-  **React Hooks (useState, useEffect)** – For state management
+-  **Bootstrap & React-Bootstrap** – For styling and responsive design
+-  **CSS** – For additional styling
 
 # How It Works
-- 1️⃣ Fill out the form and submit.
-- 2️⃣ User data is saved in Firebase and displayed in the Users Table.
-- 3️⃣ Click Edit to modify user details (updates reflect in real-time).
-- 4️⃣ Click Delete to remove a user (deletes instantly from Firebase and the UI).
+-  Fill out the form and submit.
+-  User data is saved in Firebase and displayed in the Users Table.
+-  Click Edit to modify user details (updates reflect in real-time).
+-  Click Delete to remove a user (deletes instantly from Firebase and the UI).
 
 
 # Getting Started
 ## 1. Clone the repository
-```sh
+**```sh
 git clone https://github.com/Mf0103/form-register.git
 cd form-register
 
 ## 2. Install dependencies
-```sh
+**```sh
 npm install
 
 ## 3. Install Bootstrap & React-Bootstrap
-```sh
+**```sh
 npm install bootstrap react-bootstrap
 
 ## 4. Run the app
-```sh
+**```sh
 npm start
 
 # Setup Firebase
