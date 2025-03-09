@@ -26,23 +26,19 @@
 
 # Getting Started
 ## 1. Clone the repository
-**```sh
 git clone https://github.com/Mf0103/form-register.git
 cd form-register
 
 ## 2. Install dependencies
-**```sh
 npm install
 
 ## 3. Install Bootstrap & React-Bootstrap
-**```sh
 npm install bootstrap react-bootstrap
 
 ## 4. Run the app
-**```sh
 npm start
 
-# Setup Firebase
+## Setup Firebase
 - 1️⃣ Create a Firebase project at Firebase Console.
 - 2️⃣ Enable Realtime Database and set rules to allow read/write.
 - 3️⃣ Add your Firebase config to your React app (firebaseConfig.js).
