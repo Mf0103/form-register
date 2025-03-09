@@ -2,11 +2,11 @@
 🚀 A React mini-project for user registration, featuring real-time data storage, editing, and deletion using Firebase and styled with Bootstrap.
 
 ## Features
-✅ **User Registration:** Collects user information via a form.
-✅ **Firebase Integration:** Saves form data in a **Firebase Realtime Database**.
-✅ **Live Users Table:** Displays all registered users dynamically.
-✅ **Real-time Updates:** Any **new user, edit, or delete action** updates instantly in both Firebase and the UI.
-✅ **Edit & Delete Functionality:** Users can update or remove their data, reflecting changes in real-time.
+✅ **User Registration:** Collects user information via a form.\
+✅ **Firebase Integration:** Saves form data in a **Firebase Realtime Database**.\
+✅ **Live Users Table:** Displays all registered users dynamically.\
+✅ **Real-time Updates:** Any **new user, edit, or delete action** updates instantly in both Firebase and the UI.\
+✅ **Edit & Delete Functionality:** Users can update or remove their data, reflecting changes in real-time.\
 ✅ **Responsive UI:** Styled using **Bootstrap & React-Bootstrap** for a modern and mobile-friendly design.
 
 
