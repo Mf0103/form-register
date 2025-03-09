@@ -26,17 +26,17 @@
 
 # Getting Started
 ## 1. Clone the repository
-git clone https://github.com/Mf0103/form-register.git
-cd form-register
+### `git clone https://github.com/Mf0103/form-register.git`
+### `cd form-register`
 
 ## 2. Install dependencies
-npm install
+### `npm install`
 
 ## 3. Install Bootstrap & React-Bootstrap
-npm install bootstrap react-bootstrap
+### `npm install bootstrap react-bootstrap`
 
 ## 4. Run the app
-npm start
+### `npm start`
 
 ## Setup Firebase
 - 1️⃣ Create a Firebase project at Firebase Console.
